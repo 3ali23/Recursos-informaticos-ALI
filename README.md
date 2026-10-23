@@ -1,2 +1,2 @@
-Proyecto Informático
+# Proyecto Informático
 Horario de clase
