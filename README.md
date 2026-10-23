@@ -1,1 +1,2 @@
-# Recursos-informaticos-ALI
+Proyecto Informático
+Horario de clase
